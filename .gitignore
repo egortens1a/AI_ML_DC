@@ -1,0 +1,10 @@
+# Игнорировать все файлы с расширением .log
+*.log
+
+# Игнорировать папку checkpoints
+module2/household_power_consumption/.ipynb_checkpoints/
+
+# Игнорировать все файлы .txt
+*.txt
+
+*.csv
